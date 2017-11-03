@@ -13,10 +13,9 @@ Ryan Sanchez
 In this project we are setting up a photo gallery application that introduces the HTML DOM to edit the elements of a page.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ryan-sanchez.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to change the attribute values of img elements to format them properly. 
+2. We learned how to create nodes, and their implementation into adding more elements to a page.
+3. We learned how to connect created nodes to the DOM tree.
